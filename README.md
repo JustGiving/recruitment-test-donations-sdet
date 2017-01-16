@@ -19,22 +19,10 @@ Please put your solution on a repository hosting service such as [GitHub](https:
 
 2. Substitute the `appId` into the config file.
 
-3. Install npm dependencies.
+3. Install npm dependencies. `npm install`
 
-```bash
-npm install
-```
+4. Build the project. `npm run build`
 
-4. Build the project.
-
-```bash
-npm run build
-```
-
-5. Start the server.
-
-```bash
-npm run serve
-```
+5. Start the server. `npm run serve`
 
 6. Open the application in your browser… http://localhost:8080
