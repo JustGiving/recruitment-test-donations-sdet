@@ -25,4 +25,4 @@ Please put your solution on a repository hosting service such as [GitHub](https:
 
 5. Start the server. `npm run serve`
 
-6. Open the application in your browser… http://localhost:8080
+6. Open the application in your browser… [http://localhost:8080](http://localhost:8080)
